@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+.Box{
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke
+}
+.heading{
+    color: black;
+}
